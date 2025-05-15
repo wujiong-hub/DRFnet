@@ -1,0 +1,2 @@
+# DRFnet
+DRFnet:Deepregistrationbasedmulti-atlaslabelfusionnetworkforsubcorticalsegmentation
